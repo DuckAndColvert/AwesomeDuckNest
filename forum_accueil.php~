@@ -1,0 +1,16 @@
+<php session_start(); ?>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="awesomeduckness.css" />
+	</head>
+	
+	<body>
+		<section>
+			<h1>FORUM</h1>
+			<p> ceci est un test</p>
+			
+		</section>
+	</body>
+
+</html>
