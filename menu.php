@@ -17,6 +17,7 @@
 
 if( isset($_SESSION['pseudo']) )
 {
+        echo "<a href='forum_accueil.php'>Forum</a></br>";
 	echo "<a href='deconnexion.php'>Quitter le nid</a></br>";
 }
 else

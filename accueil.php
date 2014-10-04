@@ -17,7 +17,7 @@
 		
 		
 		<section>
-			<h2>TRAVAUX EN COURS</h2>
+			<h2>TRAVAUX EN COURS ;) </h2>
 			<p> Awesome Duck Nest peut subir des instabilités pendant les travaux; ne vous affolez donc
 			pas des comportements étranges</p>
 			<img src="/image/travaux.png"/>
